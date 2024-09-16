@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.roboto-regular {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  font-family: "Roboto";
+  background-color: #f8edeb;
+}
+
+main {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  padding: 10px 0 10px 0;
+}
+
+h1,
+h2,
+h3 {
+  padding: 10px 0 10px 0;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+  padding: 10px 0 10px 0;
+}
